@@ -75,4 +75,5 @@ namespace Exercise<br>
 }
 
 OUTPUT<br>
-![Screenshot 2022-02-21 124209](https://user-images.githubusercontent.com/98301023/154906222-987d7d88-0604-4c1c-a2f7-2a81f88ee75d.png)
+![Screenshot 2022-02-21 124209](https://user-images.githubusercontent.com/98301023/154906222-987d7d88-0604-4c1c-a2f7-2a81f88ee75d.png)      ![Screenshot 2022-02-21 125320](https://user-images.githubusercontent.com/98301023/154907675-8ec429df-9cd2-42bb-8499-deeaf04997ed.png)
+
